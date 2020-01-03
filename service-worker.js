@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "buckshot-77.github.io/calculadora/precache-manifest.85e5685e4c01833fa782be33ef491aed.js"
+  "buckshot-77.github.io/calculadora/precache-manifest.a40be3d6c1074925c42a6fe3c692758f.js"
 );
 
 self.addEventListener('message', (event) => {

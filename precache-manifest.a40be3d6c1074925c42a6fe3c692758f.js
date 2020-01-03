@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9e2f32b916a84d564ced0f2e6939931",
+    "revision": "77651b48bb0f7d83bf5f4d95362203cc",
     "url": "buckshot-77.github.io/calculadora/index.html"
   },
   {
