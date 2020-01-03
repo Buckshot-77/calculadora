@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/calculadora/static/css/main.205aa3d0.chunk.css",
-    "main.js": "/calculadora/static/js/main.f80170fb.chunk.js",
-    "main.js.map": "/calculadora/static/js/main.f80170fb.chunk.js.map",
-    "runtime-main.js": "/calculadora/static/js/runtime-main.1927bf3a.js",
-    "runtime-main.js.map": "/calculadora/static/js/runtime-main.1927bf3a.js.map",
-    "static/js/2.43471bb6.chunk.js": "/calculadora/static/js/2.43471bb6.chunk.js",
-    "static/js/2.43471bb6.chunk.js.map": "/calculadora/static/js/2.43471bb6.chunk.js.map",
-    "index.html": "/calculadora/index.html",
-    "precache-manifest.245ab2a2db673eae5fa351632dd191f8.js": "/calculadora/precache-manifest.245ab2a2db673eae5fa351632dd191f8.js",
-    "service-worker.js": "/calculadora/service-worker.js",
-    "static/css/main.205aa3d0.chunk.css.map": "/calculadora/static/css/main.205aa3d0.chunk.css.map",
-    "static/js/2.43471bb6.chunk.js.LICENSE": "/calculadora/static/js/2.43471bb6.chunk.js.LICENSE"
+    "main.css": "buckshot-77.github.io/calculadora/static/css/main.205aa3d0.chunk.css",
+    "main.js": "buckshot-77.github.io/calculadora/static/js/main.5547c7bc.chunk.js",
+    "main.js.map": "buckshot-77.github.io/calculadora/static/js/main.5547c7bc.chunk.js.map",
+    "runtime-main.js": "buckshot-77.github.io/calculadora/static/js/runtime-main.ddf82afa.js",
+    "runtime-main.js.map": "buckshot-77.github.io/calculadora/static/js/runtime-main.ddf82afa.js.map",
+    "static/js/2.8ba19cbc.chunk.js": "buckshot-77.github.io/calculadora/static/js/2.8ba19cbc.chunk.js",
+    "static/js/2.8ba19cbc.chunk.js.map": "buckshot-77.github.io/calculadora/static/js/2.8ba19cbc.chunk.js.map",
+    "index.html": "buckshot-77.github.io/calculadora/index.html",
+    "precache-manifest.85e5685e4c01833fa782be33ef491aed.js": "buckshot-77.github.io/calculadora/precache-manifest.85e5685e4c01833fa782be33ef491aed.js",
+    "service-worker.js": "buckshot-77.github.io/calculadora/service-worker.js",
+    "static/css/main.205aa3d0.chunk.css.map": "buckshot-77.github.io/calculadora/static/css/main.205aa3d0.chunk.css.map",
+    "static/js/2.8ba19cbc.chunk.js.LICENSE": "buckshot-77.github.io/calculadora/static/js/2.8ba19cbc.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.1927bf3a.js",
-    "static/js/2.43471bb6.chunk.js",
+    "static/js/runtime-main.ddf82afa.js",
+    "static/js/2.8ba19cbc.chunk.js",
     "static/css/main.205aa3d0.chunk.css",
-    "static/js/main.f80170fb.chunk.js"
+    "static/js/main.5547c7bc.chunk.js"
   ]
 }
