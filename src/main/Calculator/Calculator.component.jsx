@@ -9,9 +9,8 @@ const initialState = {
   clearDisplay: false,
   operation: null,
   values: [0, 0],
-  current: 0
+  current: 0,
 };
-
 export default class Calculator extends Component {
 
   constructor(props) {
@@ -41,7 +40,7 @@ export default class Calculator extends Component {
       values[1] = 0;
 
       this.setState({
-        displayValue: values[0],
+        displayValue: values[0].toFixed(2),
         operation: equals ? null : operation,
         current: equals ? 0 : 1,
         clearDisplay: !equals,
